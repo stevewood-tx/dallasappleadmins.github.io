@@ -1,4 +1,3 @@
-remote_theme:	Notepad
 title:	Dallas Apple Admins
 Description:	We are a group of Mac admins that gather regularly to discuss Mac management
 logo:	site.png
@@ -8,6 +7,3 @@ keywords:	apple, Mac, admin, Jamf, Munki, Casper, Management
 twitter:	stevewood_tx
 facebook:	https://www.facebook.com
 github:		https://github.com
-linkedin:
-instagram:
-tumblr:
