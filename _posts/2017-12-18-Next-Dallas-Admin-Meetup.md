@@ -2,6 +2,6 @@ Hey everyone, we have scheduled our next meetup of the Dallas Apple Admins for t
 
 So come on out and join us and engage with some fellow Mac admins around the area. Head on over to Jamf Nation to register:
 
-https://www.jamf.com/jamf-nation/events/user-groups/194/dallas-area-apple-admins-meetup?view=info
+[Register Here](https://www.jamf.com/jamf-nation/events/user-groups/194/dallas-area-apple-admins-meetup?view=info)
 
-** Note: this is not a Jamf only event. We often never discuss Jamf products at all and instead focus on topics that will help all admins, whether you use Jamf, Munki, or some other management toolkit.
+**_Note: this is not a Jamf only event. We often never discuss Jamf products at all and instead focus on topics that will help all admins, whether you use Jamf, Munki, or some other management toolkit._**
