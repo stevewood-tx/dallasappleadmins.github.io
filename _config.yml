@@ -1,3 +1,6 @@
+theme: jekyll-theme-minimal
+name: Dallas Apple Admins
+markdown:	kramdown
 title:	Dallas Apple Admins
 Description:	We are a group of Mac admins that gather regularly to discuss Mac management
 logo:	site.png
