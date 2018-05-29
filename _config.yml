@@ -1,0 +1,13 @@
+show_downloads: false
+theme: jekyll-theme-tactile
+name: Dallas Apple Admins
+markdown: kramdown
+title:  Dallas Apple Admins
+description:  We are a group of Mac admins that gather regularly to discuss Mac management. Oh, and to eat pizza.
+logo: /images/site.png
+timezone: America/Chicago
+readtime:         true
+keywords: apple, Mac, admin, Jamf, Munki, Casper, Management
+twitter:  stevewood_tx
+facebook: https://www.facebook.com
+github:   https://github.com
