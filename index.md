@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
  
-{{ site.baseurl }}{% post_url 2018-05-21-May-2018-Meetup %}
+[2018-05-21-May-2018-Meetup.md]({{ site.baseurl }}{% post_url 2018-05-21-May-2018-Meetup %})
 
 There should be whitespace between paragraphs.
 
