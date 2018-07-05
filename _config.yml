@@ -1,5 +1,7 @@
-title: Dinky theme
-description: Dinky is a red hot theme for GitHub Pages.
-show_downloads: true
+title: Dallas Apple Admins
+email: steve@wood-family.net
+url: "dallasadmins.org"
+description: The Dallas Apple Admins are a group of likeminded Mac admins searching for the meaning of life.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-dinky
