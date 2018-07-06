@@ -3,34 +3,34 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Austin Apple Admins"
+name:               "Dallas Apple Admins"
 
 author:
-  name:             Austin Apple Admins
-  facebook:         austinappleadmins
-  twitter:          austinappleadmn
+  name:             Dallas Apple Admins
+  #facebook:         dallasappleadmins
+  #twitter:          dallasappleadmn
   #github:           your-id
-  linkedin:         6974270
+  #linkedin:         6974270
   #medium:           your-id
   #tumblr:           your-id
-  email:            hello@austinappleadmins.org
+  #email:            hello@Dallasappleadmins.org
   calendar:         yes
-  eventbrite:       yes
+  #eventbrite:       yes
 
 copyright:
-  year:             2017
-  name:             Austin Apple Admins
+  year:             2018
+  name:             Dallas Apple Admins
 
 # Google-analytics
 google-analytics:
-  id:               "UA-91003068-1"
+  #id:               "UA-91003068-1"
 
 # Disqus
 disqus:
-  id:               "austinappleadmins"
+  #id:               "Dallasappleadmins"
 
 # URL
-url:                "http://www.austinappleadmins.org" # the base hostname & protocol for your site
+url:                "http://www.dallasappleadmins.org" # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop
 baseurl:            "" # the subpath of your site, e.g. /blog
 
@@ -52,18 +52,18 @@ kramdown:
 nav:
   - name:           "About"
     url:            "/about"
-  - name:           "Archive"
-    url:            "/archive"
-  - name:           "Hosting"
-    url:            "https://goo.gl/forms/cKaOxNaMgm0N8M4c2"
-  - name:           "Speaking"
-    url:            "https://goo.gl/forms/SlplkdmkkyKpG7982"
-  - name:           "Newsletter"
-    url:            "http://tinyletter.com/austinappleadmins"
-  - name:           "Calendar"
-    url:            "https://calendar.google.com/calendar/embed?src=austinappleadmins.org_lteuqsasq6fondipofutlpvfps%40group.calendar.google.com&ctz=America/Chicago"
-  - name:           "Code of Conduct"
-    url:            "/code-of-conduct"
+#  - name:           "Archive"
+#    url:            "/archive"
+#  - name:           "Hosting"
+#    url:            "https://goo.gl/forms/cKaOxNaMgm0N8M4c2"
+#  - name:           "Speaking"
+#    url:            "https://goo.gl/forms/SlplkdmkkyKpG7982"
+#  - name:           "Newsletter"
+#    url:            "http://tinyletter.com/Dallasappleadmins"
+#  - name:           "Calendar"
+#    url:            "https://calendar.google.com/calendar/embed?src=Dallasappleadmins.org_lteuqsasq6fondipofutlpvfps%40group.calendar.google.com&ctz=America/Chicago"
+#  - name:           "Code of Conduct"
+#    url:            "/code-of-conduct"
 
 # Sass
 sass:
