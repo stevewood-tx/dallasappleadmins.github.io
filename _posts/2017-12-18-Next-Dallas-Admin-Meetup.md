@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: post
+date: 2017-12-18
+tags: [meetup]
+share: true
 title: "Meetup December 2017"
 ---
 
