@@ -19,4 +19,6 @@ Dallas, TX 75254
 - 7:00 to 7:45 - Roundtable Wrap-up of JNUC and Other conferences
 - 7:45 to 8:30 - Q & A and general discussions
 
-Please be sure to sign-up for the event so we know how much food to get. I will put a sign-up link in as soon as I can.
+Please be sure to sign-up for the event so we know how much food to get.
+
+[Dallas Apple Admins Meet](https://www.jamf.com/jamf-nation/events/user-groups/239/dallas-apple-admins-meet-up)
