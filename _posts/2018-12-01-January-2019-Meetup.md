@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "January 2019 Meetup"
-date: 2018-10-17
+date: 2018-12-01
 tags: [meetup]
 share: true
 ---
