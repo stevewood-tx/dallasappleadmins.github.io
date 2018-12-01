@@ -13,9 +13,8 @@ Dallas, TX 75254
 
 [Google Map](https://www.google.com/maps/place/Bottle+Rocket/@32.949566,-96.824076,15z/data=!4m2!3m1!1s0x0:0x21f21e03b3ac6715?sa=X&ved=0ahUKEwiEl7_qn4ncAhUBULwKHR9yBtAQ_BIInwEwEQ)
 
-**Agenda**
 
-Have a topic you want to present/discuss? Email Steve: steve@wood-family.net
+**Have a topic you want to present/discuss? Email Steve: steve@wood-family.net**
 
 
 Look for a new sign up link to be posted soon!
