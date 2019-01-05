@@ -17,4 +17,4 @@ Dallas, TX 75254
 **Have a topic you want to present/discuss? Email Steve: steve@wood-family.net**
 
 
-Look for a new sign up link to be posted soon!
+Sign up for the event on [Eventbrite](https://www.eventbrite.com/e/dallas-apple-admins-meet-up-tickets-54440207125)
