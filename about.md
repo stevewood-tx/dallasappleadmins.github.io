@@ -12,6 +12,7 @@ Our desire is to unite the Apple admins from the Dallas/Ft. Worth Metroplex and 
 Every 1-2 months, we organize and coordinate a meetup where we can gather to discuss the hot topics in the Mac community, and eat some pizza. Our past sponsors have been:
 
 * [Jamf Software](http://www.jamfsoftware.com/)
+* [Filewave](https://www.filewave.com)
 * [BottleRocket Studios](https://www.bottlerocketstudios.com)
 
 ### Speaking & Hosting
