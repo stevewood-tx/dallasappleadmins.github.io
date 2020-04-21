@@ -8,7 +8,7 @@ name:               "Dallas Apple Admins"
 author:
   name:             Dallas Apple Admins
   #facebook:         dallasappleadmins
-  #twitter:          dallasappleadmn
+  twitter:          dallasmacadmns
   #github:           your-id
   #linkedin:         6974270
   #medium:           your-id
@@ -47,6 +47,11 @@ paginate_path:      /page:num/
 markdown:           kramdown
 kramdown:
   input:            GFM
+    # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
 
 # Navigation
 nav:
