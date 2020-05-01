@@ -34,7 +34,11 @@ url:                "http://dallasappleadmins.org" # the base hostname & protoco
 # url:                "http://localhost:4000" # use this url when you develop
 baseurl:            "" # the subpath of your site, e.g. /blog
 
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://raw.githubusercontent.com/stevewood-tx/dallasappleadmins.github.io/master/assets/images/site.png
 
+
+assets/images/site.png
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:           America/Chicago
 permalink:          /:year-:month-:day/:title/
