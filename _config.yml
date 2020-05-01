@@ -3,7 +3,7 @@ email: steve@wood-family.net
 description: >- # this means to ignore newlines until "baseurl:"
   Official blog for the Dallas Area Apple Admins group
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://dallasappleadmins.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dallasmacadmns
 github_username:  stevewood-tx
 
