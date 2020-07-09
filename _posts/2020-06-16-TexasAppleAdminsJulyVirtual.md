@@ -12,12 +12,15 @@ We are looking for volunteers to give presentations on any relavant topic. Reach
 **Speakers:** (list will be updated as people are confirmed)
 
 * [Steve Wood](https://geekygordo.com), Dallas: Will serve as MC to keep things flowing
+* [Adam Segar](https://addigy.com), Addigy (vendor): Live features you didn’t know were possible!
+* [Erik Gomez](https://blog.eriknicolasgomez.com), Austin: Nudge'ing users to update their Macs
+* YOU?
 
 **When**: Tuesday, July 14, 2020 from 12:00 to 1:00 p.m.
 
 **Where**: WebEx. In order to control potential disruptions, the link will be sent to registered participants before the event.
 
-**Register**: Registration link coming soon!
+**Register**: [https://www.eventbrite.com/e/texas-apple-admins-july-virtual-meetup-tickets-110167744690](https://www.eventbrite.com/e/texas-apple-admins-july-virtual-meetup-tickets-110167744690)
 
 We hope you can participate!
 
