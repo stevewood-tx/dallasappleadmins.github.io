@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Dallas Apple Admins November 2024 Meetup"
 date: 2024-11-07
 ---
