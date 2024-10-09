@@ -12,6 +12,7 @@ Come join us on Thursday November 7, 2024 for our next in-person meetup. We have
 **Where**: Toytota Connected, 5905 Legacy Dr Ste. 210, Plano, TX 75024
 
 [Driving Directions from the South](/assets/images/TC-Office-South-to-North.pdf)
+
 [Driving Directions from the North](/assets/images/TC-Office-North-to-South.pdf)
 
 **The event is open to anyone that might be wrangling Apple devices in your environment!**
