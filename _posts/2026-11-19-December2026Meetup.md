@@ -1,5 +1,5 @@
 ---
-title: "Dallas Apple Admins June 2026 Meetup"
+title: "Dallas Apple Admins December 2026 Meetup"
 date: 2026-11-19
 ---
 
